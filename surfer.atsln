@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "surfer", "surfer\surfer.cproj", "{F11539DB-55AA-4240-B7B4-D4DAD5CDB628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F11539DB-55AA-4240-B7B4-D4DAD5CDB628}.Debug|AVR.ActiveCfg = Debug|AVR
+		{F11539DB-55AA-4240-B7B4-D4DAD5CDB628}.Debug|AVR.Build.0 = Debug|AVR
+		{F11539DB-55AA-4240-B7B4-D4DAD5CDB628}.Release|AVR.ActiveCfg = Release|AVR
+		{F11539DB-55AA-4240-B7B4-D4DAD5CDB628}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
